@@ -1,0 +1,27 @@
+#container{
+    display: block;
+    width: 30%;;
+    margin: 0 auto;
+    margin-top: 10%;
+    border: 1px solid black;
+    padding:1%;
+    border-radius:15%;
+    background-color:#081bff38;
+    box-shadow: 5px 5px 5px;
+    
+}
+label{
+    margin-top: 1%;
+    display: block;
+}
+
+
+h2{
+    
+    text-align: center;
+}
+
+#Botão{
+    
+    text-align: center;
+}
