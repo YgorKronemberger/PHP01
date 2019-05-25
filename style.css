@@ -1,3 +1,4 @@
+
 #container{
     display: block;
     width: 30%;;
@@ -6,9 +7,9 @@
     border: 1px solid black;
     padding:1%;
     border-radius:15%;
-    background-color:#081bff38;
-    box-shadow: 5px 5px 5px;
-    
+    box-shadow: 10px 10px 10px #000;
+    color:#fff;    
+   background: linear-gradient(to right, rgba(0,41,54,1) 0%, rgba(8,6,66,1) 32%, rgba(8,6,66,1) 75%, rgba(0,38,51,1) 100%);
 }
 label{
     margin-top: 1%;
@@ -24,4 +25,10 @@ h2{
 #Botão{
     
     text-align: center;
+}
+#Nome:hover{
+    
+    padding: 5% 0;
+     -webkit-transition: 10s; /* Safari */
+  transition: 10s;
 }
